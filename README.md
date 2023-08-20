@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/sameersheikh881">
+<a-- <a href="https://www.fiverr.com/sameersheikh881">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a> -->
 
