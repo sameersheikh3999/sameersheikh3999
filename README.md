@@ -19,23 +19,13 @@ Here are some ideas to get you started:
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/evilgenius786/">
-    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
-</a>
-
 <a href="https://www.linkedin.com/in/sameerrsheikhh/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
-<a href="https://t.me/evilgenius786">
-    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
    
 
 <a href="sameersheikh3999@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-</a>
-<a href="https://www.instagram.com/evilgenius786/">
-    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
 
     
