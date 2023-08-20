@@ -75,12 +75,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
-<br>
-<summary>📝 My GitHub Stats</summary>
-<br>
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
-    <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
-<br>
+
+Artificial Intelligence & Robotics Engineer from <b>Pakistan<b> 💚
