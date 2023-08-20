@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
    
 
-<a href="mailto:786hassan777@gmail.com">
+<a href="sameersheikh3999@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 <a href="https://www.instagram.com/evilgenius786/">
