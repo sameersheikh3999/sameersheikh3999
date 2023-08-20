@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
 </a>
 
-<a href="https://www.linkedin.com/in/evil-genius/">
+<a href="https://www.linkedin.com/in/sameerrsheikhh/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 <a href="https://t.me/evilgenius786">
@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 </a>
 
     
-<a href="https://api.whatsapp.com/send?phone=923065855647">
+<a href="https://api.whatsapp.com/send?phone=923095274580">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/muhammadhassan7">
+<!-- <a href="https://www.fiverr.com/sameersheikh881">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a> -->
 
 
-<a href="https://www.upwork.com/freelancers/evilgenius786">
+<a href="https://www.upwork.com/freelancers/sameersheikh18">
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
