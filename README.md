@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Freelancer at Upwork
+- 🙋‍♂️ Level 2 Seller at Fiverr
 - ⚡ Data Scraping/Web automation
 - 💻 Artificial Intelligence/ Machine Learning
 - 📑 Masters in Artificial Intelligence NUST, Islamabad.
