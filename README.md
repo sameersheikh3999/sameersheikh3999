@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - ⚡ Data Scraping/Web automation
 - 💻 Artificial Intelligence/ Machine Learning
 - 📑 Masters in Artificial Intelligence NUST, Islamabad.
-- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
+- 💪 Has more than 1 year of on job experience as a Data Analyst
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
