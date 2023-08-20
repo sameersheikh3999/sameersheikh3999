@@ -53,18 +53,14 @@ Here are some ideas to get you started:
 
 - 🙋‍♂️ Top-Rated Freelancer at Upwork
 - ⚡ Data Scraping/Web automation
-- 💻 Android/Windows/Web dev
-- 📑 CS Graduate from Air University, Islamabad.
+- 💻 Artificial Intelligence/ Machine Learning
+- 📑 Masters in Artificial Intelligence NUST, Islamabad.
 - 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
-👉 Web Automation (Python/C#/Selenium) (Since 2019)<br>
-👉 Android Automation (Python/C#/Appium) (Since 2021)<br>
-👉 Android Apps (Java/XML)(2018-2019)<br>
-👉 Windows desktop Apps (WPF/C#/XAML) (Since 2018)<br>
-👉 Web Apps (MEAN Stack) (2018-2019)<br>
-👉 API Development (FastAPI/Flask) (Since 2020)<br>
+👉 Web Automation (Python/Selenium) (Since 2019)<br>
+👉 Machine Learning (Python/Sci-kit learn/Pytorch) (Since 2021)<br>
 <br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
@@ -72,9 +68,6 @@ Here are some ideas to get you started:
 👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
 👉 C++<br>
-👉 Cyber security<br>
-👉 Web pentesting/hacking<br>
-👉 Reverse Engineering<br>
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
