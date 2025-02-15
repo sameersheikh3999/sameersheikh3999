@@ -1,81 +1,83 @@
-<!--
-**sameersheikh3999/sameersheikh3999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Here are some ideas to get you started:
+# Hey there, I'm Sameer Sheikh 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hey there, I'm  Sameer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+🚀 **Data Scientist | AI Engineer | Freelancer**  
 
+I specialize in **Data Analytics, Machine Learning, Web Scraping, and Automation**. With **100+ successful freelance projects**, I bring data-driven solutions to businesses, delivering **insightful dashboards, AI-powered tools, and automated workflows**.  
 
+![Profile Views](https://komarev.com/ghpvc/?username=sameersheikh3999&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/sameersheikh3999?style=social)  
+
+---
+
+## 🚀 About Me  
+
+🔹 **Data Analyst at Taleemabad** | Driving insights using **SQL, Power BI, and Google Analytics**  
+🔹 **MS Artificial Intelligence, NUST** | Specializing in **Machine Learning & AI**  
+🔹 **Freelancer on Fiverr & Upwork** | Expertise in **Data Analysis, Automation & Web Scraping**  
+🔹 Passionate about **AI-driven decision-making, Big Data, and automation**  
+
+---
+
+## 🔥 What I Do  
+
+### **📊 Data Science & Analytics**  
+✔ Data Cleaning, Processing & Visualization  
+✔ SQL Querying & BigQuery Analytics  
+✔ Power BI & Looker Studio Dashboards  
+
+### **🤖 Machine Learning & AI**  
+✔ Predictive Modeling & NLP  
+✔ Computer Vision & Deep Learning  
+✔ AI-powered Automation  
+
+### **🕸 Web Scraping & Automation**  
+✔ Custom Web Scraping Bots  
+✔ Data Extraction & API Integration  
+✔ Automated Workflow Solutions  
+
+---
+
+## 🛠 My Tech Stack  
 <div align="center">
-<p align="center">Let's connect!</p>
-
-<a href="https://www.linkedin.com/in/sameerrsheikhh/">
-    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
-   
-
-<a href="sameersheikh3999@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-</a>
-
-    
-<a href="https://api.whatsapp.com/send?phone=923095274580">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-</a>
-
-<a href="https://www.fiverr.com/sameersheikh881">
-    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a>
-
-
-<a href="https://www.upwork.com/freelancers/sameersheikh18">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
-</a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </div>
 
-<br>
+---
 
-### An Artificial Intelligence, Robotics Engineer & Freelancer
+## 📌 Notable Projects  
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+### 📊 **Sales Insight Dashboard**  
+✅ Analyzed **Atelique Hardware's sales data** in MySQL  
+✅ Built an interactive **Power BI dashboard**  
+✅ Applied **DAX functions** for deeper insights  
 
-#### Talking about my personal stuff:
+### 🕷 **Alibaba Web Scraper**  
+✅ Developed a **Python-based web scraper** to extract product data  
+✅ Built a **Looker Studio dashboard** for visualization  
+✅ Provided **customized insights** to clients  
 
-- 🙋‍♂️ Top Seller at Fiverr
-- ⚡ Data Scraping/Web automation
-- 💻 Artificial Intelligence/ Machine Learning
-- 📑 Masters in Artificial Intelligence NUST, Islamabad.
-- 💪 Has more than 1 year of on job experience as a Data Analyst
+---
 
-### My skills 🛠
-👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
-👉 Web Automation (Python/Selenium) (Since 2019)<br>
-👉 Machine Learning (Python/Sci-kit learn/Pytorch) (Since 2021)<br>
-<br>
-👉 Multithreaded code<br>
-👉 Output in JSON/CSV/Excel<br>
-👉 Clean and efficient<br>
-👉 Commented and prettified to help you understand<br>
-👉 Parsing data and APIs<br>
-👉 C++<br>
-<br>
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
+## 🌎 Let's Connect  
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <a href="https://www.linkedin.com/in/sameerrsheikhh/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.fiverr.com/sameersheikh881">
+        <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/sameersheikh18">
+        <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+    </a>
+    <a href="mailto:sameersheikh3999@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=923095274580">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
 </div>
-
-
-
-Artificial Intelligence & Robotics Engineer from <b>Pakistan<b> 💚
